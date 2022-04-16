@@ -5,5 +5,4 @@ after clone the project please follow steps bellow:
 - npm i -g sequelize-cli
 - sequelize db:create
 - sequelize db:migrate
-- sequelize db:seed:all
 - npm run start
